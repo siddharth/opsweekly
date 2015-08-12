@@ -52,6 +52,7 @@
                 <li><a tabindex="-1" href="set_locale.php?l=UK">London, UK</a></li>
                 <li><a tabindex="-1" href="set_locale.php?l=ET">Brooklyn, NY</a></li>
                 <li><a tabindex="-1" href="set_locale.php?l=PT">San Francisco, CA</a></li>
+                <li><a tabindex="-1" href="set_locale.php?l=IN">India</a></li>
             </ul>
         </li>
         <li class="dropdown">
