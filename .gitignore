@@ -1,3 +1,4 @@
 phplib/config.php
 vendor
 .htaccess
+/nbproject/
